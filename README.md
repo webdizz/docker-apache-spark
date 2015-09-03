@@ -1,2 +1,4 @@
-# docker-apache-spark
-Docker image of Apache Spark
+docker-apache-spark
+========================
+
+[Docker](https://www.docker.com/) image with [Apache Spark](http://spark.apache.org/) 
